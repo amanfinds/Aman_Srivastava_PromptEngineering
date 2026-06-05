@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This portfolio demonstrates the application of prompt engineering techniques using a Large Language Model (LLM). The assignment explores prompt design and iterative refinement, temperature-based experimentation, strategic prompting techniques such as chain-of-thought and few-shot prompting, and responsible AI practices. Through systematic experimentation, the portfolio highlights how prompt structure and parameters influence model behavior, output quality, and reliability.
+This portfolio demonstrates the application of prompt engineering techniques using a Large Language Model (LLM). The assignment explores prompt design and iterative refinement, temperature based experimentation, strategic prompting techniques such as chain of thought and few shot prompting, and responsible AI practices. Through systematic experimentation, the portfolio highlights how prompt structure and parameters influence model behavior, output quality, and reliability.
 
 ---
 
@@ -20,13 +20,13 @@ This portfolio demonstrates the application of prompt engineering techniques usi
 
 ### Goal
 
-Explain neural networks to a 10-year-old child.
+Explain neural networks to a 10-year old child.
 
 ---
 
 ### Initial Prompt (V1)
 
-Explain neural networks to a 10-year-old child.
+Explain neural networks to a 10-year old child.
 
 ### Output Summary
 
@@ -36,7 +36,7 @@ The explanation was simple but lacked engagement and relatable examples.
 
 ### Refined Prompt (V2)
 
-You are an experienced elementary school teacher. Explain neural networks to a 10-year-old child using simple language and everyday examples.
+You are an experienced elementary school teacher. Explain neural networks to a 10-year old child using simple language and everyday examples.
 
 ### Output Summary
 
@@ -46,7 +46,7 @@ The response became clearer and more age-appropriate but still lacked storytelli
 
 ### Final Prompt (V3)
 
-You are a friendly teacher explaining science to children. Explain neural networks to a 10-year-old using a story about students learning to recognize animals. Use simple words and end with a short summary.
+You are a friendly teacher explaining science to children. Explain neural networks to a 10-year old using a story about students learning to recognize animals. Use simple words and end with a short summary.
 
 ### Final LLM Response
 
@@ -68,7 +68,7 @@ Write an email declining a job offer politely.
 
 ### Output Summary
 
-Polite but not detailed or relationship-focused.
+Polite but not detailed or relationship focused.
 
 ---
 
